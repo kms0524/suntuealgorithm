@@ -1,0 +1,8 @@
+input 1:
+
+BaekjoonOnlineJudge
+
+input 2:
+
+OneTwoThreeFourFiveSixSevenEightNineTen
+
